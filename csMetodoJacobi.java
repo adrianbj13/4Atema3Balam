@@ -4,9 +4,7 @@ import Tema3_MetodosNumericos.csFilaJacobi;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
-  /*CHI PECH LUIS ESTEBAN 
-    JOSÉ EDUARDO PISTE COUOH
-    WILIAM GUSTAVO DZUL CASTILLO*/
+
 
 public class csMetodoJacobi {
 
