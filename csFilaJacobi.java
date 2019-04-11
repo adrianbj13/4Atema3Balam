@@ -2,10 +2,6 @@ package Tema3_MetodosNumericos;
 
 public class csFilaJacobi {
     
-    /*CHI PECH LUIS ESTEBAN 
-    JOSÉ EDUARDO PISTE COUOH
-    WILLIAN GUSTAVO DZUL CASTILLO*/
-    
     private double x1, x2, x3, x4;
     private double restaX1, restaX2, restaX3, restaX4, Error;
 
