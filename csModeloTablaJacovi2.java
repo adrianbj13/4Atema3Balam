@@ -5,9 +5,6 @@ import Tema3_MetodosNumericos.csFilaJacobi;
 import java.util.ArrayList;
 import javax.swing.table.AbstractTableModel;
 
-  /*CHI PECH LUIS ESTEBAN 
-    JOSÉ EDUARDO PISTE COUOH
-    WILLIAN GUSTAVO DZUL CASTILLO*/
 
 public class csModeloTablaJacovi2 extends AbstractTableModel {
 
